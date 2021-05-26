@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ValkLastSukeban
+- 👀 I’m interested in Game Develop
+- 🌱 I’m currently learning Unity and C#
+- 💞️ I’m looking to collaborate on Unity Games
+- 📫 How to reach me:
+- Instagram: @valquiriamaiams
+- Twitter: @ValkLastSukeban
